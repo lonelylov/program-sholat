@@ -15,7 +15,7 @@ Tugas Kuliah Komputasi Astronomi
 kota = st.selectbox ("Pilih lokasi anda:", ("jakarta", "Surabaya", "batang", "denpasar", "pekalongan", "Malang")
 )
 
-df = pd.read_excel(r'C:\Users\LENOVO\Documents\data_kota.xlsx')
+df = pd.read_csv(database_kota)
 
 lintang = df[kota][0]
 bujur = df[kota][1]
