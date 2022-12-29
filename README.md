@@ -8,6 +8,8 @@ Beberapa fitur yang diberikan pada pemrograman website ini antara lain:
 
 Website ini masih terus dalam pengembangan dan akan terus di upgrade secara bertahap baik dari sisi fitur ataupun algoritma pemrogramannya.
 
-created by: Sallima Sylvie Septianita 
 saran & masukan
+
 contact: septianita165@gmail.com
+
+created by: Sallima Sylvie Septianita 
